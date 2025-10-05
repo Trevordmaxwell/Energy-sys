@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Unified Equilibrium Language Model
+message: If you use UELM in your research, please cite this repository.
+authors:
+  - family-names: Doe
+    given-names: Jane
+    affiliation: UELM Contributors
+identifiers:
+  - type: url
+    value: https://github.com/example/uelm
