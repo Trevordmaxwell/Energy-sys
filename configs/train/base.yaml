@@ -1,0 +1,10 @@
+max_steps: 5000
+log_every: 100
+checkpoint_every: 500
+optimizer: adamw
+learning_rate: 0.001
+weight_decay: 0.01
+grad_clip: 1.0
+solver:
+  max_iter: 15
+  tol: 1.0e-3
