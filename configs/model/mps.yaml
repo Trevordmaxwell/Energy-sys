@@ -1,0 +1,6 @@
+# Apple Silicon overrides
+# Merge with base configuration for MPS runs
+device: mps
+dtype: float32
+solver:
+  max_iter: 12

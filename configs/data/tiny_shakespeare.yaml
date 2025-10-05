@@ -1,0 +1,4 @@
+name: tiny_shakespeare
+path: data/tiny_shakespeare.txt
+sequence_length: 512
+batch_size: 2
