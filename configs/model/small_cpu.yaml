@@ -1,0 +1,18 @@
+# Small, CPU-friendly configuration
+d: 256
+dx: 64
+K: 2048
+beta_init: 0.06
+mu: 0.5
+lambda_h: 1.0
+lambda_norm: 1e-4
+causal_band: 128
+solver:
+  kind: anderson
+  m: 5
+  tol: 1.0e-3
+  max_iter: 15
+  damping: 0.5
+  energy_decrease: true
+device: cpu
+dtype: float32

@@ -1,0 +1,4 @@
+name: toy_synthetic
+sequence_length: 64
+batch_size: 4
+vocab_size: 32
